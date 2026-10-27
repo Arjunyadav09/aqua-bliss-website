@@ -1,0 +1,5 @@
+<h2 class="">Explore Our Range</h2>
+<p class="">Discover functional beverages crafted for your lifestyle. From rapid recovery to daily vitality, choose the hydration that fuels your movement.</p>
+<strong class="">Performance Focus</strong>
+<span class="">Everyday Vitality</span>
+<strong class="">Rapid Recovery</strong>

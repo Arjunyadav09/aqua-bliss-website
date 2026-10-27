@@ -1,0 +1,12 @@
+<span class="item-label _label_1xgw8_18">Home</span>
+<span class="item-label _label_1xgw8_18">Blog</span>
+<span class="item-label _label_1xgw8_18">Shop</span>
+<span class="item-label _label_1xgw8_18">Notifications</span>
+<svg class="">[icon]</svg>
+<svg class="">[icon]</svg>
+<svg class="">[icon]</svg>
+<span class="label _label_1umc5_48 wixui-button__label">Shop Now</span>
+<svg class="">[icon]</svg>
+<svg class="">[icon]</svg>
+<span class="_logOutText_1j3j6_12">Log In</span>
+<svg class="">[icon]</svg>

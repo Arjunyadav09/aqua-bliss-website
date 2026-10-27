@@ -1,0 +1,49 @@
+
+========================= SECTION 0 =========================
+Inline styles count: 3
+Key css properties:
+--wix-color-29:var(--wix-color-3)
+--wix-color-37:var(--wix-color-5)
+--wix-color-38:var(--wix-color-8)
+--wix-color-39:var(--wix-color-8)
+--wix-color-40:var(--wix-color-1)
+--wix-color-41:var(--wix-color-8)
+--wix-color-42:var(--wix-color-8)
+--wix-color-43:var(--wix-color-1)
+--wix-color-44:var(--wix-color-3)
+--wix-color-45:var(--wix-color-3)
+--wix-color-46:var(--wix-color-1)
+--wix-color-47:var(--wix-color-1)
+--wix-color-48:var(--wix-color-8)
+--wix-color-49:var(--wix-color-8)
+--wix-color-50:var(--wix-color-1)
+
+========================= SECTION 1 =========================
+Inline styles count: 1
+Key css properties:
+
+
+========================= SECTION 2 =========================
+Inline styles count: 8
+Key css properties:
+font-weight:bold
+
+========================= SECTION 3 =========================
+Inline styles count: 3
+Key css properties:
+
+
+========================= SECTION 4 =========================
+Inline styles count: 3
+Key css properties:
+
+
+========================= SECTION 5 =========================
+Inline styles count: 1
+Key css properties:
+
+
+========================= SECTION 6 =========================
+Inline styles count: 1
+Key css properties:
+

@@ -1,0 +1,8 @@
+{
+  "name": "Aqua Bliss",
+  "description": "Pure Hydration. Powered by Protein. Aqua Bliss delivers 15g and 25g of premium whey isolate with zero sugar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

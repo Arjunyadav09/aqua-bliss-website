@@ -1,0 +1,12 @@
+<p class="">The ultimate protein-based hydration for active and health-conscious lifestyles.</p>
+<h6 class="">Our Mission</h6>
+<p class="">Pure Hydration. Powered by Protein.</p>
+<h6 class="">Contact Us</h6>
+<h6 class="">Stay Connected</h6>
+<svg class="">[icon]</svg>
+<svg class="">[icon]</svg>
+<svg class="">[icon]</svg>
+<svg class="">[icon]</svg>
+<svg class="">[icon]</svg>
+<svg class="">[icon]</svg>
+<p class="">© 2026 Aqua Bliss. Powered by Protein. All rights reserved.</p>

@@ -1,0 +1,246 @@
+{
+  "builderComponent": {
+    "presetsPolyfill": {
+      "wixMembersArea.LoginSocialBar": {
+        "componentId": "27ddc52c-43ba-4709-87a4-877c65c51ca2",
+        "elementsWithPresets": [
+          {
+            "elementKey": "root",
+            "selector": ".login-social-bar",
+            "presetVariableKey": "b7bda400"
+          }
+        ]
+      },
+      "wixEditorElements.AnimatedIcon": {
+        "componentId": "6f9890ba-d8b7-4b76-a6f4-de41bd150b68",
+        "elementsWithPresets": []
+      },
+      "wixEditorElements.TextMarquee": {
+        "componentId": "64d7d13f-8f09-47e3-9eea-9c02e3f602c2",
+        "elementsWithPresets": []
+      },
+      "wixEditorElements.Line": {
+        "componentId": "d2ff230a-71c3-4e58-8742-d68f69a2de0b",
+        "elementsWithPresets": [
+          {
+            "elementKey": "root",
+            "selector": ".line-wrapper",
+            "presetVariableKey": "f6118811"
+          }
+        ]
+      },
+      "wixEditorElements.SocialBar": {
+        "componentId": "241afef1-74bd-4a10-843f-ac4928c25882",
+        "elementsWithPresets": [
+          {
+            "elementKey": "root",
+            "selector": ".link-bar",
+            "presetVariableKey": "39ce83c1"
+          }
+        ]
+      },
+      "wixEditorElements.Menu": {
+        "componentId": "3f27c3f4-5a2b-4b2c-9b14-05d9c0c6d5ec",
+        "elementsWithPresets": [
+          {
+            "elementKey": "root",
+            "selector": ".menu",
+            "presetVariableKey": "2eeafb3d"
+          },
+          {
+            "elementKey": "root/hamburgerMenu/hamburgerCloseButton",
+            "selector": ".menu .button.hamburger-close-button",
+            "presetVariableKey": "95089bdc"
+          },
+          {
+            "elementKey": "root/hamburgerOpenButton",
+            "selector": ".menu .button.hamburger-open-button",
+            "presetVariableKey": "8a3d2d78"
+          }
+        ]
+      },
+      "wixEditorElements.Logo": {
+        "componentId": "4190f51c-3836-49f6-8114-96219c165b30",
+        "elementsWithPresets": []
+      },
+      "wixEditorElements.Button": {
+        "componentId": "4190f51c-3836-49f6-8114-96219c165b29",
+        "elementsWithPresets": [
+          {
+            "elementKey": "root",
+            "selector": ".button",
+            "presetVariableKey": "423f9646"
+          }
+        ]
+      },
+      "wixEditorElements.BoxContainer": {
+        "componentId": "1f0108be-06bb-4a81-9c55-a1cbd223926c",
+        "elementsWithPresets": []
+      },
+      "wixEditorElements.WRichText": {
+        "componentId": "4220f51c-7462-49f6-7352-14219c165b28",
+        "elementsWithPresets": [
+          {
+            "elementKey": "root",
+            "selector": ".wrichtext",
+            "presetVariableKey": "dfd70ffc"
+          }
+        ]
+      },
+      "wixEditorElements.Image": {
+        "componentId": "0bfa7aab-081b-431b-adb2-1b1062e8f21a",
+        "elementsWithPresets": []
+      },
+      "wixSystemElements.Background": {
+        "componentId": "81f3000f-f78a-459d-a044-59bd7a96092a",
+        "elementsWithPresets": []
+      },
+      "wixSystemElements.InternalContainer": {
+        "componentId": "b7d85f9c-3e12-4a96-8d47-9f2c6b4d1e3a",
+        "elementsWithPresets": []
+      }
+    }
+  },
+  "platform": {
+    "ssrPropsUpdates": [],
+    "ssrStyleUpdates": [],
+    "ssrStructureUpdates": []
+  },
+  "pages": {
+    "compIdToTypeMap": {
+      "masterPage": "MasterPage",
+      "BACKGROUND_GROUP": "BackgroundGroup",
+      "WIX_ADS": "FreemiumBannerOdeditor",
+      "SCROLL_TO_TOP": "Anchor",
+      "SCROLL_TO_BOTTOM": "Anchor",
+      "SKIP_TO_CONTENT_BTN": "SkipToContentButton",
+      "SITE_PAGES": "PageGroup",
+      "SITE_HEADER": "HeaderContainer",
+      "SITE_FOOTER": "FooterContainer",
+      "PAGES_CONTAINER": "PagesContainer",
+      "c1dmp": "Page",
+      "Containerc1dmp": "ResponsiveContainer",
+      "comp-mb7ogqrp": "RefComponent",
+      "comp-mb7ogqrp_r_comp-mb7ogqqn": "HeaderSection",
+      "comp-mb7ogqrp_r_comp-mdr142kt": "wixSystemElements.InternalContainer",
+      "comp-mb7ogqrp_r_comp-mmymdlhf": "wixEditorElements.Logo",
+      "comp-mb7ogqrp_r_comp-mmymdlm3": "wixEditorElements.Menu",
+      "comp-mb7ogqrp_r_comp-mmymdlnn1": "wixSystemElements.InternalContainer",
+      "comp-mb7ogqrp_r_comp-mmymdmii": "wixEditorElements.BoxContainer",
+      "comp-mb7ogqrp_r_comp-mmymdmiw1": "wixSystemElements.InternalContainer",
+      "comp-mb7ogqrp_r_comp-mmymdmjb": "wixSystemElements.Background",
+      "comp-mb7ogqrp_r_comp-mmymdrpf": "wixEditorElements.Button",
+      "comp-mb7ogqrp_r_comp-mmymdlnn2": "wixSystemElements.InternalContainer",
+      "comp-mb7ogqrp_r_comp-mmymdrtz": "wixMembersArea.LoginSocialBar",
+      "comp-mb7ogqrp_r_comp-mmymdmnx": "wixEditorElements.Button",
+      "comp-mb7ogqrp_r_comp-mmymaud8": "wixMembersArea.LoginSocialBar",
+      "comp-mb7ogqrp_r_comp-mmymap4l": "tpaWidgetNative",
+      "comp-mb7ogqrp_r_comp-mhs1biva": "wixSystemElements.Background",
+      "PAGE_SECTIONSc1dmp": "PageSections",
+      "comp-mmym87c4": "Section",
+      "comp-mmym87g6": "wixSystemElements.InternalContainer",
+      "comp-mmymc1rb": "wixEditorElements.WRichText",
+      "comp-mmymc1t6": "wixEditorElements.WRichText",
+      "comp-mmymc1ux": "wixEditorElements.Button",
+      "comp-mmymc22s": "wixEditorElements.BoxContainer",
+      "comp-mmymc22w": "wixSystemElements.InternalContainer",
+      "comp-mmyny4jr": "wixEditorElements.Image",
+      "comp-mmymc2341": "wixSystemElements.Background",
+      "comp-mmym87g91": "wixSystemElements.Background",
+      "comp-mmym87gl": "Section",
+      "comp-mmym87gp": "wixSystemElements.InternalContainer",
+      "comp-mmymc5l2": "wixEditorElements.WRichText",
+      "comp-mmymc5rc": "wixEditorElements.WRichText",
+      "comp-mmymc5vd": "wixEditorElements.BoxContainer",
+      "comp-mmymc5vh": "wixSystemElements.InternalContainer",
+      "comp-mmymc5zf": "wixEditorElements.WRichText",
+      "comp-mmymc5vp": "wixSystemElements.Background",
+      "comp-mmymc61m": "wixEditorElements.BoxContainer",
+      "comp-mmymc61q1": "wixSystemElements.InternalContainer",
+      "comp-mmymc66j": "wixEditorElements.WRichText",
+      "comp-mmymc622": "wixSystemElements.Background",
+      "comp-mmymc692": "wixEditorElements.BoxContainer",
+      "comp-mmymc69c": "wixSystemElements.InternalContainer",
+      "comp-mmymc6dn": "wixEditorElements.WRichText",
+      "comp-mmymc69n": "wixSystemElements.Background",
+      "comp-mmym87gr": "wixSystemElements.Background",
+      "comp-mmym87gv": "Section",
+      "comp-mmym87gy2": "wixSystemElements.InternalContainer",
+      "comp-mmymcbjn": "wixEditorElements.WRichText",
+      "comp-mmymcbpx": "wixEditorElements.BoxContainer",
+      "comp-mmymcbq11": "wixSystemElements.InternalContainer",
+      "comp-mn1mwqxl": "wixEditorElements.Image",
+      "comp-mmymcbtb": "wixEditorElements.WRichText",
+      "comp-mmymcbuk": "wixEditorElements.WRichText",
+      "comp-mmymcbvp": "wixEditorElements.WRichText",
+      "comp-mmymcbwt": "wixEditorElements.Button",
+      "comp-mmymcbqb1": "wixSystemElements.Background",
+      "comp-mmymcbyr": "wixEditorElements.BoxContainer",
+      "comp-mmymcbyt2": "wixSystemElements.InternalContainer",
+      "comp-mn1mze8c": "wixEditorElements.Image",
+      "comp-mmymcc26": "wixEditorElements.WRichText",
+      "comp-mmymcc36": "wixEditorElements.WRichText",
+      "comp-mmymcc4d": "wixEditorElements.WRichText",
+      "comp-mmymcc5i": "wixEditorElements.Button",
+      "comp-mmymcbz8": "wixSystemElements.Background",
+      "comp-mmymcc7f": "wixEditorElements.BoxContainer",
+      "comp-mmymcc7h2": "wixSystemElements.InternalContainer",
+      "comp-mn1n3irs": "wixEditorElements.Image",
+      "comp-mmymccar": "wixEditorElements.WRichText",
+      "comp-mmymccby": "wixEditorElements.WRichText",
+      "comp-mmymccd0": "wixEditorElements.WRichText",
+      "comp-mmymcce8": "wixEditorElements.Button",
+      "comp-mmymcc7o2": "wixSystemElements.Background",
+      "comp-mmym87h0": "wixSystemElements.Background",
+      "comp-mmym87h4": "Section",
+      "comp-mmym87h71": "wixSystemElements.InternalContainer",
+      "comp-mmymcif3": "wixEditorElements.WRichText",
+      "comp-mmymcipl": "wixEditorElements.TextMarquee",
+      "comp-mmymcizz": "wixEditorElements.Line",
+      "comp-mmymcj21": "wixEditorElements.Image",
+      "comp-mmymcj3j": "wixEditorElements.WRichText",
+      "comp-mmymcj4q": "wixEditorElements.WRichText",
+      "comp-mmymcj9b": "wixEditorElements.Line",
+      "comp-mmymcjb9": "wixEditorElements.Image",
+      "comp-mmymcjcu": "wixEditorElements.WRichText",
+      "comp-mmymcjec": "wixEditorElements.WRichText",
+      "comp-mmymcjhs": "wixEditorElements.Line",
+      "comp-mmymcjja": "wixEditorElements.Image",
+      "comp-mmymcjl9": "wixEditorElements.WRichText",
+      "comp-mmymcjme": "wixEditorElements.WRichText",
+      "comp-mmym87h9": "wixSystemElements.Background",
+      "comp-mmym87hd": "Section",
+      "comp-mmym87hg": "wixSystemElements.InternalContainer",
+      "comp-mmymcpk2": "wixEditorElements.BoxContainer",
+      "comp-mmymcpk7": "wixSystemElements.InternalContainer",
+      "comp-mmymcpmr": "wixEditorElements.WRichText",
+      "comp-mmymcpo4": "wixEditorElements.WRichText",
+      "comp-mmymcppb": "wixEditorElements.Image",
+      "comp-mmymcpkh": "wixSystemElements.Background",
+      "comp-mmym87hi": "wixSystemElements.Background",
+      "comp-kbgakxmn": "RefComponent",
+      "comp-kbgakxmn_r_comp-kbgakgyt": "FooterSection",
+      "comp-kbgakxmn_r_comp-mdr13kdg": "wixSystemElements.InternalContainer",
+      "comp-kbgakxmn_r_comp-mmymdwee": "wixEditorElements.Logo",
+      "comp-kbgakxmn_r_comp-mmymdwjf": "wixEditorElements.WRichText",
+      "comp-kbgakxmn_r_comp-mmymdwtu": "wixEditorElements.WRichText",
+      "comp-kbgakxmn_r_comp-mmymdwxn": "wixEditorElements.WRichText",
+      "comp-kbgakxmn_r_comp-mmymdx7i": "wixEditorElements.WRichText",
+      "comp-kbgakxmn_r_comp-mmymdxiu": "wixEditorElements.WRichText",
+      "comp-kbgakxmn_r_comp-mmymdxti": "wixEditorElements.WRichText",
+      "comp-kbgakxmn_r_comp-mmymdxw8": "wixEditorElements.SocialBar",
+      "comp-kbgakxmn_r_comp-mmymdy8z": "wixEditorElements.Line",
+      "comp-kbgakxmn_r_comp-mmymdycf": "wixEditorElements.WRichText",
+      "comp-kbgakxmn_r_comp-mdr17w8k": "wixSystemElements.Background",
+      "DYNAMIC_STRUCTURE_CONTAINER": "DynamicStructureContainer",
+      "site-root": "DivWithChildren",
+      "main_MF": "DivWithChildren",
+      "c1dmp_wrapper": "PageMountUnmount"
+    }
+  },
+  "appsWarmupData": {},
+  "builderComponentsWarmupData": {},
+  "ooi": {
+    "failedInSsr": {}
+  }
+}
